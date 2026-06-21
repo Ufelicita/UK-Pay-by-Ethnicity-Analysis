@@ -1,4 +1,4 @@
-# Visualisation Assignment 
+# UK Pay by Ethnicity Analysis
 
 Felicita Adeleke 
 Student Id : 22026653
